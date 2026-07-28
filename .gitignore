@@ -1,0 +1,36 @@
+# Variables privadas y API keys
+.env
+.env.*
+!.env.example
+
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración de VS Code
+.vscode/
+
+# Configuración de PyCharm
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de pruebas y caché
+.pytest_cache/
+.mypy_cache/
+
+# Archivos de cobertura
+.coverage
+htmlcov/
+
+# Logs
+*.log

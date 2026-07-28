@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+pydantic
+langchain-ollama
+langchain-google-genai
+duckduckgo-search
+dogs
+wikipedia
